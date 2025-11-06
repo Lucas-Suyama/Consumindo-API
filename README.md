@@ -95,7 +95,8 @@ O projeto consome dados da API: `https://guilhermeonrails.github.io/api-csharp-s
 ## 🤝 Contribuições
 
 Este projeto foi desenvolvido como parte do curso de C# da Alura. Sinta-se à vontade para explorar e aprender com o código!
-Intrutores:
+
+Instrutores:
 - Daniel Portugal
 - Guilherme Lima
 
