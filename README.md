@@ -4,7 +4,7 @@ Um projeto em C# que consome uma API de músicas e demonstra o uso de LINQ para 
 
 ## 📋 Descrição
 
-Este projeto é uma aplicação console em C# que consome dados de músicas de uma API pública e implementa diversas funcionalidades de filtragem utilizando LINQ (Language Integrated Query). O projeto foi desenvolvido como parte do curso de C# da Alura.
+Este projeto foi desenvolvido durante um curso da Alura, é uma aplicação console em C# que consome dados de músicas de uma API pública e implementa diversas funcionalidades de filtragem utilizando LINQ (Language Integrated Query). O projeto foi desenvolvido como parte do curso de C# da Alura.
 
 ## 🚀 Funcionalidades
 
@@ -95,6 +95,9 @@ O projeto consome dados da API: `https://guilhermeonrails.github.io/api-csharp-s
 ## 🤝 Contribuições
 
 Este projeto foi desenvolvido como parte do curso de C# da Alura. Sinta-se à vontade para explorar e aprender com o código!
+Intrutores:
+- Daniel Portugal
+- Guilherme Lima
 
 ---
 
