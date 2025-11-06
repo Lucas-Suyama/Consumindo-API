@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\bin\Debug\net9.0\Consumindo-API.exe
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\bin\Debug\net9.0\Consumindo-API.deps.json
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\bin\Debug\net9.0\Consumindo-API.runtimeconfig.json
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\bin\Debug\net9.0\Consumindo-API.dll
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\bin\Debug\net9.0\Consumindo-API.pdb
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\obj\Debug\net9.0\Consumindo-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\obj\Debug\net9.0\Consumindo-API.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\obj\Debug\net9.0\Consumindo-API.AssemblyInfo.cs
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\obj\Debug\net9.0\Consumindo-API.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\obj\Debug\net9.0\Consumindo-API.dll
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\obj\Debug\net9.0\refint\Consumindo-API.dll
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\obj\Debug\net9.0\Consumindo-API.pdb
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\obj\Debug\net9.0\Consumindo-API.genruntimeconfig.cache
+C:\Users\lucas\Documents\Alura\C#\Consumindo-API\obj\Debug\net9.0\ref\Consumindo-API.dll
